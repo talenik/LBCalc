@@ -7,14 +7,16 @@ A simple GUI app for:
 3. Calculating transmitter EIRP
 4. Calculating path losses
 5. Calculating receiver antenna Eb/N0
-6. Putting together satellite uplink/donwlin link budget
+6. Putting together satellite uplink/downlin link budget
 
 ![LBC GUI](/LBCscreen.PNG)
 
 ## Installation
 
 Install PySimpleGUI first:
+```
 >pip install PySimpleGUI
+```
 
 ## Running
 
